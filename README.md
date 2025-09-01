@@ -1,6 +1,41 @@
 # 💫 About Me:
-I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and Genomics. With strong foundations in C++, Python, and full-stack development, I'm now expanding into AI for biomedical data and preparing to pursue an MSc by Research (MScR) in Deep Learning & Genomics at the University of Edinburgh in 2027.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, computational biology, and precision medicine. I'm particularly interested in projects at the intersection of deep learning, DNA/RNA sequence analysis, and clinical data integration.<br><br>As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries — ideally in biotech, medtech, or health AI environments. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>🧠 **Current Learning Goals:**<br>- Linear algebra, calculus, and probability foundations for ML<br>- ML model building with Python (scikit-learn, XGBoost)<br>- Deep learning fundamentals (PyTorch, CNNs, transformers)<br>- Genomic data handling (BioPython, public omics datasets)<br><br>📈 **Realistic Project Roadmap (2024–2027)**<br><br>🔹 **Fall 2025**  <br>• Diabetes prediction using logistic regression (Pima Indians dataset)  <br>• COVID symptom classification using decision trees  <br>• Gene expression visualizer using PCA on real omics data  <br><br>🔹 **Winter 2026**  <br>• DNA sequence classification with 1D CNN (splice junctions)  <br>• Binary cancer classification from gene expression data (TCGA)  <br>• K-mer embedding visualizer using t-SNE or UMAP  <br><br>🔹 **Summer 2026 Co-op**  <br>• Industry placement in ML for genomics or health AI  <br>• CNN-based histopathology image classifier (e.g., breast cancer)  <br>• Streamlit dashboard or FastAPI backend for model serving  <br><br>🔹 **Fall 2026**  <br>• Transformer-based DNA sequence classifier (e.g., DNABERT-lite)  <br>• Mutational signature autoencoder for dimensionality reduction  <br>• Clinical text classifier using Hugging Face models  <br><br>🔹 **Winter 2027 Co-op**  <br>• Research-focused project in biomedical ML or genomics  <br>• Multi-omics disease classifier (MLP with expression + methylation data)  <br>• Begin MScR proposal and optionally co-author/publish a project  <br><br>🔹 **Summer 2027**  <br>• Graduate from BTech  <br>• Begin MSc by Research in Deep Learning & Genomics (target: Edinburgh)<br><br>🚀 Always open to connecting with engineers, researchers, and biotech professionals in AI/ML, genomics, and computational biology. Let’s build something impactful.
+I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and Genomics. With strong foundations in C++, Python, and full-stack development, I'm now expanding into AI for biomedical data and preparing to pursue an MSc by Research (MScR) in Deep Learning & Genomics at the University of Edinburgh in 2027.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, computational biology, and precision medicine. I'm particularly interested in projects at the intersection of deep learning, DNA/RNA sequence analysis, and clinical data integration.<br><br>
 
+As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries — ideally in biotech, medtech, or health AI environments. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>
+
+🧠 **Current Learning Goals:**<br>
+- Linear algebra ✅, calculus ✅, and probability foundations for ML<br>
+- ML model building with Python (scikit-learn, XGBoost)<br>- Deep learning fundamentals (PyTorch, CNNs, transformers)<br>
+- Genomic data handling (BioPython, public omics datasets)<br><br>
+
+📈 **Project Roadmap (2025–2027)**<br><br>
+
+🔹 **Fall 2025**  <br>• Diabetes prediction using logistic regression (Pima Indians dataset)  <br>
+• COVID symptom classification using decision trees  <br>• Gene expression visualizer using PCA on real omics data  <br><br>
+
+🔹 **Winter 2026**  <br>
+• DNA sequence classification with 1D CNN (splice junctions)  <br>• Binary cancer classification from gene expression data (TCGA)  <br>• K-mer embedding visualizer using t-SNE or UMAP  <br><br>
+
+🔹 **Summer 2026 Co-op**  <br>
+• Industry placement in ML for genomics or health AI  <br>
+• CNN-based histopathology image classifier (e.g., breast cancer)  <br>
+• Streamlit dashboard or FastAPI backend for model serving  <br><br>
+
+🔹 **Fall 2026**  <br>
+• Transformer-based DNA sequence classifier (e.g., DNABERT-lite)  <br>
+• Mutational signature autoencoder for dimensionality reduction  <br>
+• Clinical text classifier using Hugging Face models  <br><br>
+
+🔹 **Winter 2027 Co-op**  <br>
+• Research-focused project in biomedical ML or genomics  <br>
+• Multi-omics disease classifier (MLP with expression + methylation data)  <br>
+• Begin MScR proposal and optionally co-author/publish a project  <br><br>
+
+🔹 **Summer 2027**  <br>
+• Graduate from BTech  <br>
+• Begin MSc by Research in Deep Learning & Genomics (target: Edinburgh)<br><br>
+
+🚀 Always open to connecting with engineers, researchers, and biotech professionals in AI/ML, genomics, and computational biology. Let’s build something impactful.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/CodyMacMLE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CodyMacMLE) 
