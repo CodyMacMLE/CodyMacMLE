@@ -5,7 +5,7 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 
 🧠 **Current Learning Goals:**<br>
 - Linear algebra ✅, calculus ✅, and probability foundations for ML<br>
-- ML model building with Python (scikit-learn, XGBoost)<br>- Deep learning fundamentals (PyTorch, CNNs, transformers)<br>
+- ML model building with Python (scikit-learn)<br>- Deep learning fundamentals (PyTorch, CNNs, transformers)<br>
 - Genomic data handling (BioPython, public omics datasets)<br><br>
 
 📈 **Project Roadmap (2025–2027)**<br><br>
