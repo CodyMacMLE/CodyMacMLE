@@ -28,7 +28,8 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 - Tech:
   - Next.js, SQL, Drizzle, REST API, TailwindCSS, Typscript, KindeAuth, AWS, CI/CD, Testing
 - Description:
-  - A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client). 
+  - A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client).
+<br>
 
 2) Project B (Winter 2026)
 - Location: TBA
@@ -37,6 +38,7 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
   - React Native, SQL, PyTorch, Python, TBA
 - Description:
   - A pratical ML system that tracks attendance of athletes and predicts the churn rate, injury-risk, and attendance no-show predictions.
+<br>
 
 3) Project C (Winter 2026)
 - Location: TBA
@@ -45,14 +47,24 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 - Description: A Computer Vision Application TBD after Project B
 <br><br>
 
-💻 **Mini Projects**<br>
+💻 **Projects**<br>
 
-1)
+1) Fragments
+- Location: None
+- Github: [https://github.com/CodyMacMLE/fragments] && [https://github.com/CodyMacMLE/fragments-ui]
+- Tech:
+  - Next.js, AWS, REST API, TailwindCSS, Congnito, AWS, CI/CD, Testing, Docker
+- Description:
+  - A basic CRUD webpage built as a school project. The webpage implements a basic crud application seperating two repos, one as the front-end, the other as a backend API. The API focuses on less the functionality, but testing, CI/CD, containerization, github actions, and AWS cloud computing.
+<br>
+
+2) Mykit-learn
 - Location: Github
 - Github: [https://github.com/CodyMacMLE/mykit-learn]
 - Description: My own implementation of scikit learns linear regression using gradient descent
+<br>
 
-2)
+3) Classical DSA
 - Location: Github
 - Github: [https://github.com/CodyMacMLE/mykit-learn](https://github.com/CodyMacMLE/classical-dsa)]
 - Description: My own implementation of common data stuctures in python
