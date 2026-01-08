@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and AI Engineering. With strong foundations in C, C++, Python, and full-stack development, I'm now expanding into AI and preparing to pursue an MSc by Research (MScR) in Deep Learning in 2027-2028.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, quantum computing, or AI. I'm particularly interested in future projects that intersect deep learning with DNA/RNA sequence analysis, and quantum machine learning<br>
+I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and AI Engineering. With strong foundations in C, C++, Python, and full-stack development, I'm now expanding into AI and preparing to pursue an MSc of Research (MScR) in Deep Learning in 2027-2028.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, quantum computing, or AI. I'm particularly interested in future projects that intersect deep learning with DNA/RNA sequence analysis, and quantum machine learning<br>
 
 As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries. I'm available for Summer 2026 and Winter 2027 co-ops.
 <br><br>
