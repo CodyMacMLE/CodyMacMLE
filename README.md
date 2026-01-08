@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and AI Engineering. With strong foundations in C, C++, Python, and full-stack development, I'm now expanding into AI and preparing to pursue an MSc by Research (MScR) in Deep Learning in 2027-2028.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, quantum computing, or AI. I'm particularly interested in future projects that intersect deep learning with DNA/RNA sequence analysis, and quantum machine learning<br>
 
-As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>
+As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries. I'm available for Summer 2026 and Winter 2027 co-ops.
+<br><br>
 
 🧠 **Current Learning Goals:**<br>
 - Math: <br>
@@ -16,9 +17,10 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
   - PyTorch ✅
   - CNNs
   - Torch.vision
-  - Transformers<br>
+  - Transformers
+<br><br>
 
-📈 **Project Roadmap (2025–2026)**<br><br>
+📈 **Project Roadmap (2025–2026)**<br>
 
 1) Shenderey Web App (Summer 2025 - Winter 2026)
 - Location: [https://www.astraltechbeta.dev]
@@ -41,8 +43,9 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 - Github: TBA
 - Tech: TBA
 - Description: A Computer Vision Application TBD after Project B
+<br><br>
 
-💻 **Mini Projects**<br><br>
+💻 **Mini Projects**<br>
 
 1)
 - Location: Github
@@ -56,6 +59,7 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 
 
 🚀 Always open to connecting with engineers, researchers, and biotech professionals in AI/ML, genomics, and computational biology. Let’s build something impactful.
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/CodyMacMLE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CodyMacMLE) 
