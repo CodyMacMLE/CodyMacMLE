@@ -4,29 +4,49 @@ I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion
 As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>
 
 🧠 **Current Learning Goals:**<br>
-- Linear algebra ✅, calculus ✅, and probability foundations for ML<br>
+- Math: <br>
+  - Linear Algebra ✅
+  - Calculus ✅
+  - Multivariate Calculus
+  - Optimization (Gradient Descent)
+  - Probability foundations for ML <br>
 - ML model building with Python (scikit-learn)<br>- Deep learning fundamentals (PyTorch, CNNs, transformers)<br>
-- Genomic data handling (BioPython, public omics datasets)<br><br>
 
-📈 **Project Roadmap (2025–2027)**<br><br>
+📈 **Project Roadmap (2025–2026)**<br><br>
 
 1) Shenderey Web App (Summer 2025 - Winter 2026)
-- Location: https://www.astraltechbeta.dev
-- Github: https://github.com/CodyMacMLE/ShendereyWebApp
-- Tech: <br> Next.js, SQL, Drizzle, REST API, TailwindCSS, Typscript, KindeAuth, AWS, CI/CD, Testing
-- Description: <br> A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client). 
+- Location: [https://www.astraltechbeta.dev]
+- Github: [https://github.com/CodyMacMLE/ShendereyWebApp]
+- Tech:
+  - Next.js, SQL, Drizzle, REST API, TailwindCSS, Typscript, KindeAuth, AWS, CI/CD, Testing
+- Description:
+  - A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client). 
 
 2) Project B (Winter 2026)
 - Location: TBA
 - Github: TBA
-- Tech: <br> React Native, SQL, PyTorch, Python, TBA
-- Description: <br> A pratical ML system that tracks attendance of athletes and predicts the churn rate, injury-risk, and attendance no-show predictions.
+- Tech:
+  - React Native, SQL, PyTorch, Python, TBA
+- Description:
+  - A pratical ML system that tracks attendance of athletes and predicts the churn rate, injury-risk, and attendance no-show predictions.
 
 3) Project C (Winter 2026)
 - Location: TBA
 - Github: TBA
-- Tech: <br> TBA
-- Description: <br> A Computer Vision Application TBD after Project B
+- Tech: TBA
+- Description: A Computer Vision Application TBD after Project B
+
+💻 **Mini Projects**<br><br>
+
+1)
+- Location: Github
+- Github: [https://github.com/CodyMacMLE/mykit-learn]
+- Description: My own implementation of scikit learns linear regression using gradient descent
+
+2)
+- Location: Github
+- Github: [https://github.com/CodyMacMLE/mykit-learn](https://github.com/CodyMacMLE/classical-dsa)]
+- Description: My own implementation of common data stuctures in python
 
 
 🚀 Always open to connecting with engineers, researchers, and biotech professionals in AI/ML, genomics, and computational biology. Let’s build something impactful.
