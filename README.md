@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and Genomics. With strong foundations in C++, Python, and full-stack development, I'm now expanding into AI for biomedical data and preparing to pursue an MSc by Research (MScR) in Deep Learning & Genomics at the University of Edinburgh in 2027.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, computational biology, and precision medicine. I'm particularly interested in projects at the intersection of deep learning, DNA/RNA sequence analysis, and clinical data integration.<br>
+I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for Machine Learning, Deep Learning, and AI Engineering. With strong foundations in C, C++, Python, and full-stack development, I'm now expanding into AI and preparing to pursue an MSc by Research (MScR) in Deep Learning in 2027-2028.<br><br>My long-term goal is to become a Machine Learning Scientist working on high-impact problems in genomics, quantum computing, or AI. I'm particularly interested in future projects that intersect deep learning with DNA/RNA sequence analysis, and quantum machine learning<br>
 
-As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries — ideally in biotech, medtech, or health AI environments. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>
+As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunities in both countries. I'm available for Summer 2026 and Winter 2027 co-ops.<br><br>
 
 🧠 **Current Learning Goals:**<br>
 - Linear algebra ✅, calculus ✅, and probability foundations for ML<br>
@@ -10,30 +10,24 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 
 📈 **Project Roadmap (2025–2027)**<br><br>
 
-🔹 **Fall 2025**  <br>• Diabetes prediction using logistic regression (Pima Indians dataset)  <br>
-• COVID symptom classification using decision trees  <br>• Gene expression visualizer using PCA on real omics data  <br><br>
+1) Shenderey Web App (Summer 2025 - Winter 2026)
+- Location: https://www.astraltechbeta.dev
+- Github: https://github.com/CodyMacMLE/ShendereyWebApp
+- Tech: <br> Next.js, SQL, Drizzle, REST API, TailwindCSS, Typscript, KindeAuth, AWS, CI/CD, Testing
+- Description: <br> A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client). 
 
-🔹 **Winter 2026**  <br>
-• DNA sequence classification with 1D CNN (splice junctions)  <br>• Binary cancer classification from gene expression data (TCGA)  <br>• K-mer embedding visualizer using t-SNE or UMAP  <br><br>
+2) Project B (Winter 2026)
+- Location: TBA
+- Github: TBA
+- Tech: <br> React Native, SQL, PyTorch, Python, TBA
+- Description: <br> A pratical ML system that tracks attendance of athletes and predicts the churn rate, injury-risk, and attendance no-show predictions.
 
-🔹 **Summer 2026 Co-op**  <br>
-• Industry placement in ML for genomics or health AI  <br>
-• CNN-based histopathology image classifier (e.g., breast cancer)  <br>
-• Streamlit dashboard or FastAPI backend for model serving  <br><br>
+3) Project C (Winter 2026)
+- Location: TBA
+- Github: TBA
+- Tech: <br> TBA
+- Description: <br> A Computer Vision Application TBD after Project B
 
-🔹 **Fall 2026**  <br>
-• Transformer-based DNA sequence classifier (e.g., DNABERT-lite)  <br>
-• Mutational signature autoencoder for dimensionality reduction  <br>
-• Clinical text classifier using Hugging Face models  <br><br>
-
-🔹 **Winter 2027 Co-op**  <br>
-• Research-focused project in biomedical ML or genomics  <br>
-• Multi-omics disease classifier (MLP with expression + methylation data)  <br>
-• Begin MScR proposal and optionally co-author/publish a project  <br><br>
-
-🔹 **Summer 2027**  <br>
-• Graduate from BTech  <br>
-• Begin MSc by Research in Deep Learning & Genomics (target: Edinburgh)<br><br>
 
 🚀 Always open to connecting with engineers, researchers, and biotech professionals in AI/ML, genomics, and computational biology. Let’s build something impactful.
 
