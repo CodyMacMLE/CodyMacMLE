@@ -40,11 +40,11 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
   - A computer vision deep learning neural network built from scaratch using the unet architecture. Built, trained and deployed to accept mri segments and overlay a mask with varying alpha so that radiologists have a prelimary screening tool to help identify tumors in the human brain.
 <br>
 
-3) Project C (Winter 2026)
+3) Real-Time Posture Monitor (Winter 2026)
 - Location: TBA
 - Github: TBA
 - Tech: Transformers
-- Description: A Computer Vision Application TBD after Project B
+- Description: A Computer Vision Application that uses transfer-learning to detect whether a user is in bad posture while working, gaming, etc. at your desk.
 <br><br>
 
 💻 **Projects**<br>
