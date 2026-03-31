@@ -32,7 +32,7 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
 <br>
 
 2) Brain Tumor Segmentation (Unet) ✅
-- Location: [https://github.com/CodyMacMLE/BrainTumorMRIClassification]
+- Location: [https://www.codymacdonald.dev/gradio-brain-tumor]
 - Github: [https://github.com/CodyMacMLE/BrainTumorMRIClassification]
 - Tech:
   - PyTorch, Python, Jupyter, EDA, CNN, Resnet, Unet, torchvision, Deep Learning, Gradio
