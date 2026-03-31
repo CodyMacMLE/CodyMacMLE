@@ -15,14 +15,14 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
   - Pandas ✅
   - Scikit-learn ✅
   - PyTorch ✅
-  - CNNs
-  - Torch.vision
+  - CNNs ✅
+  - Torchvision ✅
   - Transformers
 <br><br>
 
 📈 **Project Roadmap (2025–2026)**<br>
 
-1) Shenderey Web App (Summer 2025 - Winter 2026)
+1) Shenderey Web App (Summer 2025 - Winter 2026) ✅
 - Location: [https://www.astraltechbeta.dev]
 - Github: [https://github.com/CodyMacMLE/ShendereyWebApp]
 - Tech:
@@ -31,19 +31,19 @@ As a dual Canadian–U.S. citizen, I’m open to internship and co-op opportunit
   - A basic CRUD webpage working with the client to build a modern web application for their business. Focused on a modern design while minimizing monthly costs when in production. The project includes a front facing webpage that consumers will view along with a admin dashboard with authentication. The dashboard displays estimated montly costs, allows the client to update key areas on the webpage like: class schedules, athlete profiles, and manage tryouts (tryouts are also sent via email to the client).
 <br>
 
-2) Project B (Winter 2026)
-- Location: TBA
-- Github: TBA
+2) Brain Tumor Segmentation (Unet) ✅
+- Location: [https://github.com/CodyMacMLE/BrainTumorMRIClassification]
+- Github: [https://github.com/CodyMacMLE/BrainTumorMRIClassification]
 - Tech:
-  - React Native, SQL, PyTorch, Python, TBA
+  - PyTorch, Python, Jupyter, EDA, CNN, Resnet, Unet, torchvision, Deep Learning, Gradio
 - Description:
-  - A pratical ML system that tracks attendance of athletes and predicts the churn rate, injury-risk, and attendance no-show predictions.
+  - A computer vision deep learning neural network built from scaratch using the unet architecture. Built, trained and deployed to accept mri segments and overlay a mask with varying alpha so that radiologists have a prelimary screening tool to help identify tumors in the human brain.
 <br>
 
 3) Project C (Winter 2026)
 - Location: TBA
 - Github: TBA
-- Tech: TBA
+- Tech: Transformers
 - Description: A Computer Vision Application TBD after Project B
 <br><br>
 
